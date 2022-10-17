@@ -11,5 +11,5 @@ A frontend clone of YouTube's home page using HTML, CSS and Material Icons
 - The @media rule is used in media queries to apply different styles for different media types/devices.
 
 
-## ScreenShot of Clone
+## Screenshot of clone
 <img width="1790" alt="image" src="https://user-images.githubusercontent.com/113392283/196236858-c523c6eb-3e73-445a-85cc-7e8c77479566.png">
